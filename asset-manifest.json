@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Masoodpoc3/static/css/main.1cd345c6.chunk.css",
+    "main.js": "/Masoodpoc3/static/js/main.0eea9988.chunk.js",
+    "main.js.map": "/Masoodpoc3/static/js/main.0eea9988.chunk.js.map",
+    "runtime-main.js": "/Masoodpoc3/static/js/runtime-main.9d8b7af0.js",
+    "runtime-main.js.map": "/Masoodpoc3/static/js/runtime-main.9d8b7af0.js.map",
+    "static/css/2.639c579c.chunk.css": "/Masoodpoc3/static/css/2.639c579c.chunk.css",
+    "static/js/2.53beb816.chunk.js": "/Masoodpoc3/static/js/2.53beb816.chunk.js",
+    "static/js/2.53beb816.chunk.js.map": "/Masoodpoc3/static/js/2.53beb816.chunk.js.map",
+    "static/js/3.aca19fd5.chunk.js": "/Masoodpoc3/static/js/3.aca19fd5.chunk.js",
+    "static/js/3.aca19fd5.chunk.js.map": "/Masoodpoc3/static/js/3.aca19fd5.chunk.js.map",
+    "index.html": "/Masoodpoc3/index.html",
+    "static/css/2.639c579c.chunk.css.map": "/Masoodpoc3/static/css/2.639c579c.chunk.css.map",
+    "static/css/main.1cd345c6.chunk.css.map": "/Masoodpoc3/static/css/main.1cd345c6.chunk.css.map",
+    "static/js/2.53beb816.chunk.js.LICENSE.txt": "/Masoodpoc3/static/js/2.53beb816.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Masoodpoc3/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d8b7af0.js",
+    "static/css/2.639c579c.chunk.css",
+    "static/js/2.53beb816.chunk.js",
+    "static/css/main.1cd345c6.chunk.css",
+    "static/js/main.0eea9988.chunk.js"
+  ]
+}
